@@ -1,0 +1,5 @@
+SHOOT_KEY = "s"
+ABILITY_KEY = "a"
+SAVE_KEY = "o"
+LOAD_KEY = "l"
+EXIT_KEY = "q"
